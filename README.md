@@ -60,7 +60,8 @@ This project is a basic implementation of the classic Pac-Man arcade game. The p
 - `Direction.java`: Enum for movement directions
 - `Position.java`: Utility class for positions in the maze
 
-⚠️ Note: This is a desktop Java application built with Swing and AWT. It does not run in web browsers. To play the game, please clone the repository and run it locally using a Java IDE or the command line.
+⚠️ Note: This is a desktop Java application built with Swing and AWT. It does not run in web browsers.
+   To play the game, please clone the repository and run it locally using a Java IDE or the command line.
 
 ## Credits
 
